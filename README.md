@@ -1,1 +1,1 @@
-# STEP-i-Internship-Solutions
+# STEP-i-Internship-ML-Solutions
